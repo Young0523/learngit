@@ -1,2 +1,3 @@
 Creating a new branch is quick & simple.
-this is dev.
+This branch is dev.
+The other one is feature1.
